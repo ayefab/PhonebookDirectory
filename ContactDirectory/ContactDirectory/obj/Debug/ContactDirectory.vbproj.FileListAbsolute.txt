@@ -1,0 +1,22 @@
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.exe.config
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.exe
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.pdb
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.xml
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.frmContactDirectory.resources
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.Resources.resources
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.vbproj.GenerateResource.Cache
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.exe
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.xml
+C:\Users\Student\Downloads\ContactDirectory\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.pdb
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.exe.config
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.exe
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.pdb
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\bin\Debug\ContactDirectory.xml
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.vbprojResolveAssemblyReference.cache
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.frmContactDirectory.resources
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.Resources.resources
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.vbproj.GenerateResource.Cache
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.exe
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.xml
+E:\Programming Class\Class Projects\ContactDirectory\ContactDirectory\obj\Debug\ContactDirectory.pdb
